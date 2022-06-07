@@ -1,0 +1,37 @@
+{
+    "aatrox" : {
+        "cost" : 1,
+        "origin" : "shimmerscale",
+        "class" : ["warrior"]
+    },
+    "anivia" : {
+        "cost" : 3,
+        "origin" : "jade",
+        "class" : ["evoker","legend"]
+    },
+    "ao-shin" : {
+        "cost" : 10,
+        "origin" : "tempest",
+        "class" : ["dragon"]
+    },
+    "ashe" : {
+        "cost" : 2,
+        "origin" : "jade",
+        "class" : ["dragonmancer" , "swiftshot"]
+    },
+    "aurelion-sol" : {
+        "cost" : 10,
+        "origin" : "astral",
+        "class" : ["dragon" , "evoker"]
+    },
+    "bard" : {
+        "cost" : 5,
+        "origin" : "guild",
+        "class" : ["bard" , "mystic"]
+    },
+    "unknown" : {
+        "cost" : 0,
+        "origin" : "none",
+        "class" : []
+    }
+}
